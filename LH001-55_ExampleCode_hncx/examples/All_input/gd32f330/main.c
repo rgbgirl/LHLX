@@ -58,8 +58,7 @@ void LH001_55_init()
     val &= ~(0x3);  
     LH001_55_write_regs(0x64,&val,1);
     val = ENUM_LH001_55_ADC_AVG_10<<POS_LH001_55_CONFIG1_AVG;  //10 sps data rate
-    LH001_55_write_regs(ADDR_LH001_55_CONFIG1,&val,1);
-		
+    LH001_55_write_regs(ADDR_LH001_55_CONFIG1,&val,1);		
 		LH001_55_adc_channel(ENUM_LH001_55_ADCCHP_AIN0,ENUM_LH001_55_ADCCHN_AIN1);		//ADC Measure AIN0 VS AIN1 
 }
 

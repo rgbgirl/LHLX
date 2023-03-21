@@ -1,0 +1,219 @@
+Dependencies for Project 'AIN_Dac', Target 'Target 1': (DO NOT MODIFY !)
+F (..\main.c)(0x6268BC72)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\main.o --omf_browse .\debug\main.crf --depend .\debug\main.d)
+I (..\..\..\..\lh_lib\LH001_55.h)(0x6268BC61)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (..\..\..\..\mcu\gd32f330\port\spi_def.h)(0x6247ADB5)
+I (..\..\..\..\mcu\gd32f330\port\spi_port.h)(0x6247AD9E)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_spi.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_gpio.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_syscfg.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_exti.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x56FE42DE)
+I (..\..\..\..\mcu\gd32f330\port\uart_print.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_usart.h)(0x61BEA012)
+F (..\..\..\..\lh_lib\LH001_55.c)(0x6268BC9B)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\lh001_55.o --omf_browse .\debug\lh001_55.crf --depend .\debug\lh001_55.d)
+I (..\..\..\..\lh_lib\LH001_55.h)(0x6268BC61)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (..\..\..\..\mcu\gd32f330\port\spi_def.h)(0x6247ADB5)
+I (..\..\..\..\mcu\gd32f330\port\spi_port.h)(0x6247AD9E)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_spi.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_gpio.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_syscfg.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_exti.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_exti.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_exti.o --omf_browse .\debug\gd32f3x0_exti.crf --depend .\debug\gd32f3x0_exti.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_exti.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_fmc.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_fmc.o --omf_browse .\debug\gd32f3x0_fmc.crf --depend .\debug\gd32f3x0_fmc.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_fmc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_gpio.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_gpio.o --omf_browse .\debug\gd32f3x0_gpio.crf --depend .\debug\gd32f3x0_gpio.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_gpio.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_spi.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_spi.o --omf_browse .\debug\gd32f3x0_spi.crf --depend .\debug\gd32f3x0_spi.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_spi.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_syscfg.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_syscfg.o --omf_browse .\debug\gd32f3x0_syscfg.crf --depend .\debug\gd32f3x0_syscfg.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_syscfg.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_timer.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_timer.o --omf_browse .\debug\gd32f3x0_timer.crf --depend .\debug\gd32f3x0_timer.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_timer.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\lib\src\gd32f3x0_usart.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_usart.o --omf_browse .\debug\gd32f3x0_usart.crf --depend .\debug\gd32f3x0_usart.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_usart.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\port\spi_port.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\spi_port.o --omf_browse .\debug\spi_port.crf --depend .\debug\spi_port.d)
+I (..\..\..\..\mcu\gd32f330\port\spi_port.h)(0x6247AD9E)
+I (..\..\..\..\lh_lib\LH001_55.h)(0x6268BC61)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (..\..\..\..\mcu\gd32f330\port\spi_def.h)(0x6247ADB5)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_spi.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_gpio.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_syscfg.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_exti.h)(0x61BEA012)
+F (..\..\..\..\mcu\gd32f330\port\uart_print.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\uart_print.o --omf_browse .\debug\uart_print.crf --depend .\debug\uart_print.d)
+I (..\..\..\..\mcu\gd32f330\port\uart_print.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x56FE42DE)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_usart.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_gpio.h)(0x61BEA012)
+F (RTE\Device\GD32F330F8\gd32f3x0_misc.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_misc.o --omf_browse .\debug\gd32f3x0_misc.crf --depend .\debug\gd32f3x0_misc.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+F (RTE\Device\GD32F330F8\gd32f3x0_rcu.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\gd32f3x0_rcu.o --omf_browse .\debug\gd32f3x0_rcu.crf --depend .\debug\gd32f3x0_rcu.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)
+F (RTE\Device\GD32F330F8\startup_gd32f3x0.s)(0x61BEA012)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "GD32F330 SETA 1"--list .\debug\startup_gd32f3x0.lst --xref -o .\debug\startup_gd32f3x0.o --depend .\debug\startup_gd32f3x0.d)
+F (RTE\Device\GD32F330F8\system_gd32f3x0.c)(0x61BEA012)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\lh_lib -I ..\..\..\..\mcu\gd32f330\lib\inc -I ..\..\..\..\mcu\gd32f330\port-I D:\LH\LH001\LH001-55\customer\EvalKit\Àý³Ì\examples\AIN_Dac\gd32f330\KEIL\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Firmware\Peripherals\inc-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0-D__UVISION_VERSION="520" -D_RTE_ -DGD32F330 -DGD32F330-o .\debug\system_gd32f3x0.o --omf_browse .\debug\system_gd32f3x0.crf --depend .\debug\system_gd32f3x0.d)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h)(0x61BEA012)
+I (C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h)(0x5CE64DB4)
+I (D:\LH\LH001\LH001-55\customer\EvalKit\ä¾‹ç¨‹\examples\AIN_Dac\gd32f330\KEIL\RTE\RTE_Components.h)(0x00000000)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h)(0x61BEA012)
+I (..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h)(0x61BEA012)

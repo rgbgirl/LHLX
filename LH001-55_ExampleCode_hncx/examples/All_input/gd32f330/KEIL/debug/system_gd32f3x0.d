@@ -1,0 +1,14 @@
+.\debug\system_gd32f3x0.o: RTE\Device\GD32F330F8\system_gd32f3x0.c
+.\debug\system_gd32f3x0.o: ..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\debug\system_gd32f3x0.o: ..\..\..\..\mcu\gd32f330\lib\inc\system_gd32f3x0.h
+.\debug\system_gd32f3x0.o: C:\Keil_v5\ARM\PACK\GigaDevice\GD32F3x0_DFP\2.0.0\Device\Include\gd32f3x0_libopt.h
+.\debug\system_gd32f3x0.o: D:\LH\LH001\LH001-55\customer\EvalKit\例程\examples\All_input\gd32f330\KEIL\RTE\RTE_Components.h
+.\debug\system_gd32f3x0.o: ..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_rcu.h
+.\debug\system_gd32f3x0.o: ..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0.h
+.\debug\system_gd32f3x0.o: ..\..\..\..\mcu\gd32f330\lib\inc\gd32f3x0_misc.h

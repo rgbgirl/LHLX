@@ -1,0 +1,20 @@
+--cpu Cortex-M4.fp
+".\debug\main.o"
+".\debug\lh001_55.o"
+".\debug\gd32f3x0_exti.o"
+".\debug\gd32f3x0_fmc.o"
+".\debug\gd32f3x0_gpio.o"
+".\debug\gd32f3x0_spi.o"
+".\debug\gd32f3x0_syscfg.o"
+".\debug\gd32f3x0_timer.o"
+".\debug\gd32f3x0_usart.o"
+".\debug\spi_port.o"
+".\debug\uart_print.o"
+".\debug\gd32f3x0_misc.o"
+".\debug\gd32f3x0_rcu.o"
+".\debug\startup_gd32f3x0.o"
+".\debug\system_gd32f3x0.o"
+--library_type=microlib --strict --scatter ".\debug\AIN.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\debug\AIN.map" -o .\debug\AIN.axf
